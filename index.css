@@ -60,15 +60,11 @@ header {
     }
     
     .heading {
-        font-size: 4rem;
+        font-size: 5rem;
     }
 
     .slogan {
-        font-size: 0.75rem;
-    }
-
-    .socialIcon {
-        width: 2.5rem;
+        font-size: 1rem;
     }
 
     .wrapper {
